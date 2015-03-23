@@ -1,0 +1,57 @@
+
+
+body {
+	background-image: url("MUFF3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+section {
+  margin: 10px 60px 10px 60px;
+  text-align: center;
+  background-color: rgba(255,255,255, 0.5);
+  border: 2px solid;
+  border-radius: 25px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h3 {
+	font-size: 40px;
+}
+
+h4 {
+	font-size: 25px;
+}
+
+h1, h2, h3, h4, p, ul, ol {
+  font-family: 'Comic Sans MS', helvetica, sans-serif;
+  margin: 5px;
+}
+
+
+ul, ol {
+	text-align: left;
+}
+
+img:hover {
+    transform: rotate(360deg);
+    box-shadow: 10px 10px 5px #06849B;
+}
+
+img {
+  margin: 10px;
+  border: 10px solid white;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px #888;
+  transition: all 1s ease;
+}
+
+.test {
+    text-decoration: line-through;
+}
+
+
+
